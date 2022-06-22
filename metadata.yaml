@@ -1,0 +1,5 @@
+homepage: "https://campaigner.ru/"
+documentation: "https://github.com/Campaigner-ru/ua-to-ga4-events/"
+versions:
+  - sha: lalala
+    changeNotes: Initial release.
