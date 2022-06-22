@@ -11,4 +11,4 @@ Select custom event parameters if you need. You can chose all kind of parameters
 ## 3. Configure triggers
 Select (or create new) triggers of your Enhanced Ecommerce events.
 ## 4. Check new tags
-Run the preview to test new events.
+Run the preview to test new tags.
