@@ -14,6 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "UA EEC to GA4 by campaigner",
+  "categories": [
+    "ANALYTICS",
+    "TAG_MANAGEMENT"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
