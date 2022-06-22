@@ -1,5 +1,5 @@
 homepage: "https://campaigner.ru/"
 documentation: "https://github.com/Campaigner-ru/ua-to-ga4-events/"
 versions:
-  - sha: feb6cb3b3ba814dbd981daa30f35c734bfecbff5
+  - sha: e3c7213e3fb3c00810e13aa64446c1710968c4a4
     changeNotes: Initial release.
